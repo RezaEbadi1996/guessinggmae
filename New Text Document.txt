@@ -1,0 +1,3 @@
+echo "The date and time that this README.md was produced is:" > README.md
+        $(date '+%d/%m/%Y %H:%M:%S') >> README.md
+        echo "number of lines of code in *guessinggame.sh* is **20**" > README.md
