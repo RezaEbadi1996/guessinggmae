@@ -7,10 +7,10 @@ add_title:
 	echo # Guessing Game >> README.md
 
 add_date:
-	echo Date and time time at which make was run >> README.md
-	echo 11-08-2018 >> README.md
+	echo Date and time time at which make was run  >> README.md
+	echo 14-08-2018  >> README.md
 add_numline:
-	echo Number of lines of code in *guessinggame.sh* is **20** >> README.md
+	echo Number of lines of code in *guessinggame.sh* is **20**  >> README.md
 
 clean:
 	rm README.md
